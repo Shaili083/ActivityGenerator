@@ -1,0 +1,40 @@
+
+.activity-details{
+    margin-right: 1rem;
+    background-color: #e8ccd7;
+    padding: 0.4rem 0.6rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 0.85rem;
+    border-right:1px solid  ;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+}
+.descr-input{
+    outline: none;
+    padding: 1rem;
+    border: 0;
+    width: 15rem;
+    padding: 0.4rem 0.6rem;
+    background-color: #e8ccd7;
+}
+.genrate-button{
+    background-color: #e8ccd7;
+    font-weight: bold;
+    outline: 0;
+    padding: 1rem;
+    border: 0;
+    margin: 1rem;
+    cursor: pointer;
+}
+.genrate-button:hover{
+    background-color: #e7accf;
+}
+.detail-container{
+display: flex;
+align-items: center;
+}
+.status-container{
+    font-size: 0.85rem;
+
+}
